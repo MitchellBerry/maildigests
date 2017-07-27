@@ -53,6 +53,7 @@ Example
 python maildigests.py -s "from:googlealerts-noreply@google.com" -d 10 -t "Alerts Digest"
 ```
 Google API daily rate limits: https://developers.google.com/gmail/api/v1/reference/quota
+
 Search query supports advanced operators, full list can be found here: https://support.google.com/mail/answer/7190?hl=en
 
 
