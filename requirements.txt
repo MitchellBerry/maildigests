@@ -1,0 +1,2 @@
+httplib2==0.9.2
+google_api_python_client==1.6.2
