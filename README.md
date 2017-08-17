@@ -1,6 +1,6 @@
 # MailDigests
 
-Combines all emails fitting a specified search criteria, configured for gmail. Processes a maximum of 50 messages by default.
+Combines all emails fitting a specified search criteria, configured for gmail.
 
 ## Install
 * Enable Gmail API access, as shown in **Step 1** of this guide:
